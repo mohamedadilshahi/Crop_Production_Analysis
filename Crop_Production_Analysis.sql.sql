@@ -132,7 +132,7 @@ WHERE Area IS NULL OR Production IS NULL;
 -- 5. SQL Insights + Full Explanation
 
 
--- Insight 1: Crop Yield Calculation (production per unit area)
+-- 1: Crop Yield Calculation (production per unit area)
 -- Goal: Identify which crops are most efficient in terms of production per hectare.
 -- Formula
 
@@ -164,7 +164,7 @@ Explanation
 
 
 
--- Insight 2: Year-over-Year (YoY) Production Growth
+-- 2: Year-over-Year (YoY) Production Growth
 
 -- Goal: See how crop production is changing year to year for each state & crop.
 
@@ -216,7 +216,7 @@ What This Insight Tells
 */
 
 
--- Insight 3: Top N States by Average Yield
+-- 3: Top N States by Average Yield
 
 
 -- Goal: Identify which states produce the most efficient crops overall.
@@ -248,7 +248,7 @@ order by Avg_State_Yield desc
 */
 
 
--- Insight 4: States with Largest Increase in Cultivated Area for a Crop (Between Two Years)
+-- 4: States with Largest Increase in Cultivated Area for a Crop (Between Two Years)
 
 -- Example: Find states with highest area increase for Rice between 2000 and 2010.
 
@@ -302,6 +302,7 @@ What This Insight Tells
 
 
 */
+
 
 
 -- 5. Top Crops by Total Production
