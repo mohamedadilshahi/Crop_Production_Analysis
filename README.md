@@ -188,7 +188,7 @@ group by State_Name, Crop, Season
 order by Total_Production desc
 ```
 
-## 4. Findings
+## Findings
 
 * Crop production varies significantly across states and regions
 * Certain crops demonstrate consistently higher yield efficiency
