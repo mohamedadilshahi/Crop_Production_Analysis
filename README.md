@@ -208,8 +208,10 @@ order by Total_Production desc
 This project demonstrates the ability to use SQL and Power BI to analyze real-world agricultural data, derive meaningful insights, and present findings through interactive dashboards. It highlights strong analytical and problem-solving skills relevant to Business Analyst and Data Analyst roles.
 
 
+## Author
+Mohamed Adilshahi – Aspiring Business Analyst
 
-
+GitHub: https://github.com/mohamedadilshahi
 
 
 
