@@ -208,6 +208,33 @@ order by Total_Production desc
 This project demonstrates the ability to use SQL and Power BI to analyze real-world agricultural data, derive meaningful insights, and present findings through interactive dashboards. It highlights strong analytical and problem-solving skills relevant to Business Analyst and Data Analyst roles.
 
 
+
+
+
+## Power BI Dashboard – Crop Production & Yield Analysis
+
+## Project Overview
+
+This Power BI dashboard visualizes crop production and yield data across states and crops in India, helping identify performance trends, yield efficiency, and seasonal patterns.
+
+## Project Objectives
+
+* Analyze state-wise and crop-wise production
+* Compare yield efficiency across regions
+* Understand year-wise and seasonal trends
+
+## Dashboard Highlights
+
+* KPIs for production, area, and yield
+* State-wise production comparison
+* Crop-wise yield analysis
+* Year-wise and season-wise trends
+* Interactive filters for State, Crop, Year, and Season
+
+## Conclusion
+
+The dashboard converts SQL-based analysis into interactive visuals, enabling quick insights and data-driven decision-making.
+
 ## Author
 Mohamed Adilshahi – Aspiring Business Analyst
 
