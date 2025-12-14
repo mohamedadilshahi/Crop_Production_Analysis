@@ -235,13 +235,15 @@ This Power BI dashboard visualizes crop production and yield data across states 
 
 The dashboard converts SQL-based analysis into interactive visuals, enabling quick insights and data-driven decision-making.
 
+Dashboard overview: https://github.com/mohamedadilshahi/Crop_Production_Analysis/blob/main/Dashboard.png
+
 ## Author
 Mohamed Adilshahi – Aspiring Business Analyst
 
 GitHub: https://github.com/mohamedadilshahi
 
 
-Dashboard overview: https://github.com/mohamedadilshahi/Crop_Production_Analysis/blob/main/Dashboard.png
+
 
 
 
