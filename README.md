@@ -15,7 +15,8 @@ Study year-over-year and seasonal production trends
 Present insights using interactive dashboards
 
 # Project Structure
-1. Database Setup
+
+### 1. Database Setup
 
 Created a structured database to store agricultural data including state, district, crop year, season, crop type, cultivated area, and production quantity.
 ```sql
